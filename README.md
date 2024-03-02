@@ -1,6 +1,6 @@
-# task-manager
+# Task Manager
 
-Task Management system using microservice architure. 
+Task Management system using microservice architure, which manage
 
 # Technologies Used
 * Spring Boot
